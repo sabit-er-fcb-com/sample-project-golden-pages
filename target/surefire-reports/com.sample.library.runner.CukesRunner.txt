@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.sample.library.runner.CukesRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.002 s <<< FAILURE! - in com.sample.library.runner.CukesRunner
+com.sample.library.runner.CukesRunner.initializationError  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.IllegalArgumentException: The glue path contained invalid identifiers com/sample/library/step_definitions.
+
